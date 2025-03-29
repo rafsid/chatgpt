@@ -9,7 +9,7 @@ Before installing this you need generate and API Key from [https://beta.openai.c
 after that create an .env file in root directory of this project like this-
 
 ```
-OPENAI_API_KEY=sk-YKMbn3OxnCBHB4qr0nttt3BlbkFJA404knaZOhlUuZ63BiE3
+OPENAI_API_KEY=ket
 ```
 
 ## How to use it
